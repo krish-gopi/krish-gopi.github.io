@@ -6,7 +6,7 @@ subtitle: CSIR-Centre for Cellular and Molecular Biology, Hyderabad, India
 
 profile:
   align: right
-  image: gopi.jpg
+  image: gopi.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Laboratory for the Conservation of Endangered Species</p>
