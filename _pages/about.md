@@ -6,11 +6,12 @@ subtitle: CSIR-Centre for Cellular and Molecular Biology, Hyderabad, India
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: gopi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>CSIR-Centre for Cellular and Molecular Biology</p>
-    <p>Hyderabad, India</p>
+    <p>Laboratory for the Conservation of Endangered Species</p>
+    <p>Dr. G Umapathy's group/p>
+    <p>+91 40 2400 6429/p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
