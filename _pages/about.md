@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: CSIR-Centre for Cellular and Molecular Biology, Hyderabad, India
 
 profile:
   align: right
