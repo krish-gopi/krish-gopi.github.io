@@ -17,12 +17,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true # shows the latest updates (papers, talks, training) on the About page
+  scrollable: false
+  limit: 4 # how many to preview here — the rest live on the /updates/ archive page
 
 latest_posts:
-  enabled: true
+  enabled: false # turned off: this pulled from the blog, which we don't want reflected here
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
