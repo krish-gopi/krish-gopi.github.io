@@ -93,13 +93,13 @@ cv:
         summary: Awarded a five-year fellowship to carry out graduate research
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Genomic signatures of terrestrial adaptation in air-breathing catfishes (Clariidae)
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Gopi Krishnan, Shivakumara Manu, Sreenivasu Ara, and Rajeev Raghavan, Govindhaswamy Umapathy
+        publisher: bioRxiv
+        releaseDate: 2025-03-25
+        url: https://doi.org/10.1101/2025.03.20.644309
+        summary: Comparative genomics across Clariidae and 23 catfish species identifying selection and gene family expansion for terrestrial traits (preprint)
 
       - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
         authors:
