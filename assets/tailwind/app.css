@@ -1,42 +1,42 @@
 @import "al_folio_core";
 
 @theme {
-  --color-primary: #2e6f7e;
+  --color-primary: #6d4aa3;
 }
 
 html {
-  --global-bg-color: #f5f7f8;
-  --global-code-bg-color: rgba(46, 111, 126, 0.06);
-  --global-text-color: #33404d;
-  --global-text-color-light: #7c8791;
-  --global-hover-color: #33404d;
+  --global-bg-color: #f7f5fa;
+  --global-code-bg-color: rgba(109, 74, 163, 0.06);
+  --global-text-color: #3a2f4d;
+  --global-text-color-light: #8b7fa0;
+  --global-hover-color: #3a2f4d;
   --global-hover-text-color: #ffffff;
-  --global-footer-bg-color: #33404d;
-  --global-footer-text-color: #e7ebed;
+  --global-footer-bg-color: #3a2f4d;
+  --global-footer-text-color: #ece7f2;
   --global-footer-link-color: #ffffff;
-  --global-distill-app-color: #7c8791;
-  --global-divider-color: rgba(51, 64, 77, 0.12);
+  --global-distill-app-color: #8b7fa0;
+  --global-divider-color: rgba(58, 47, 77, 0.12);
   --global-card-bg-color: #ffffff;
-  --global-highlight-color: #2e6f7e;
-  --global-back-to-top-bg-color: rgba(51, 64, 77, 0.4);
+  --global-highlight-color: #6d4aa3;
+  --global-back-to-top-bg-color: rgba(58, 47, 77, 0.4);
   --global-back-to-top-text-color: #ffffff;
 }
 
 html[data-theme='dark'] {
-  --color-primary: #4fa3b5;
-  --global-bg-color: #14181b;
-  --global-code-bg-color: #1e2427;
-  --global-text-color: #e7ebed;
-  --global-text-color-light: #93a0a8;
-  --global-hover-color: #4fa3b5;
-  --global-hover-text-color: #14181b;
-  --global-footer-bg-color: #e7ebed;
-  --global-footer-text-color: #262b2e;
-  --global-footer-link-color: #14181b;
-  --global-distill-app-color: #93a0a8;
-  --global-divider-color: #2c3236;
-  --global-card-bg-color: #1e2427;
-  --global-highlight-color: #4fa3b5;
-  --global-back-to-top-bg-color: rgba(231, 235, 237, 0.2);
-  --global-back-to-top-text-color: #14181b;
+  --color-primary: #9b7bd4;
+  --global-bg-color: #18151c;
+  --global-code-bg-color: #221e28;
+  --global-text-color: #ece7f2;
+  --global-text-color-light: #a89bbd;
+  --global-hover-color: #9b7bd4;
+  --global-hover-text-color: #18151c;
+  --global-footer-bg-color: #ece7f2;
+  --global-footer-text-color: #2a2532;
+  --global-footer-link-color: #18151c;
+  --global-distill-app-color: #a89bbd;
+  --global-divider-color: #322b3a;
+  --global-card-bg-color: #221e28;
+  --global-highlight-color: #9b7bd4;
+  --global-back-to-top-bg-color: rgba(236, 231, 242, 0.2);
+  --global-back-to-top-text-color: #18151c;
 }
