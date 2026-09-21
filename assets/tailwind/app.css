@@ -1,1 +1,9 @@
+@import "al_folio_core";
 
+@theme {
+  --color-primary: #b5533c;
+}
+
+html[data-theme='dark'] {
+  --color-primary: #c96b4e;
+}
