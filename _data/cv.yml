@@ -101,21 +101,21 @@ cv:
         url: https://doi.org/10.1101/2025.03.20.644309
         summary: Comparative genomics across Clariidae and 23 catfish species identifying selection and gene family expansion for terrestrial traits (preprint)
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Nuclear and Mitochondrial Genome Assemblies of Indrella ampulla, a Terrestrial Gastropod Endemic to the Western Ghats
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Gopi Krishnan, Maitreya Sil, Neelavar Anantharam Aravind, and Govindhaswamy Umapathy, Aniruddha Datta-Roy
+        publisher: Genome Biology and Evolution
+        releaseDate: 2025-10-27
+        url: https://doi.org/10.1093/gbe/evaf199
+        summary: Generated a high-quality genome of the endemic, color-polymorphic land snail *Indrella ampulla*, providing insights into its demographic history, evolutionary adaptation, and a genomic resource for future molluscan conservation and comparative studies
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Development of a species-specific qPCR assay for the detection of invasive African sharptooth catfish (Clarias gariepinus) using environmental DNA
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Gopi Krishnan, Meher Sunkara, Rajeev Raghavan, and Govindhaswamy Umapathy
+        publisher: Biological Invasions
+        releaseDate: 2022-11-16
+        url: https://doi.org/10.1007/s10530-022-02969-2
+        summary: Developed and tested an eDNA based assay to study the distribution of highly invasive African Sharptooth catfish (Clarias gariepinus) 
 
     Skills:
       - name: Physics
