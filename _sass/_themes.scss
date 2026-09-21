@@ -291,13 +291,16 @@ html[data-theme="dark"] .about-page {
   }
 }
 
-// Publication status badges ("Preprint", "GBE", etc.). Bootstrap's default
-// .badge padding (.25em .4em, line-height:1) is very tight, and the theme
-// stretches it to the full column width with .w-100 — combined, that's what
-// makes it look like a thin sliver rather than a proper pill.
+// Publication status badges ("Preprint", "GBE", etc.) — override Bootstrap's
+// .w-100 (forces the badge to fill its column, which is what made it look
+// like a thin stretched sliver) so the pill sizes to its own text instead,
+// with a bit more vertical breathing room than Bootstrap's cramped default.
 .abbr abbr.badge {
-  padding: 0.4rem 0.6rem;
-  line-height: 1.4;
+  width: auto !important;
+  display: inline-block;
+  padding: 0.45rem 0.75rem;
+  line-height: 1.3;
   font-size: 0.72rem;
   letter-spacing: 0.03em;
+  white-space: nowrap;
 }
