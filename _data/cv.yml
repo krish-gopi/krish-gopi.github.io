@@ -21,77 +21,64 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: CSIR-Centre for Cellular and Moelcular Biology
+        location: Hyderabad, India
+        url: https://www.ccmb.res.in
+        area: Biological Sciences
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2019
+        end_date: 2025
         score: ""
-        courses: "Theory of Relativity"
+        courses: "Genetic and genomic investigations into biological invasion of African sharptooth catfish (Clarias gariepinus)"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Conservation Biology
+          - Genetics and Genomics
+          - Fish Biology
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Loyola College, University of Madras
+        location: Chennai, India
+        area: Zoology
+        studyType: Master of Science
+        start_date: 2014
+        end_date: 2016
+        highlights: ""
+
+      - institution: Loyola College, University of Madras
+        location: Chennai, India
+        area: Advanced Zoology and Biotechnology
+        studyType: Bachelor of Science
+        start_date: 2011
+        end_date: 2014
+        highlights: ""
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: CSIR-Centre for Cellular and Molecular Biology
+        position: Post doctoral researcher
+        location: Hyderabad, India
+        start_date: 2025
+        end_date: 2026
+        summary: Postdoctoral researcher integrating conservation biology, genomics, and population genetics to study and conserve diverse non-model species.
         highlights:
-          - Relativity
-          - Description 2.
+          - Evolutionary Genomics
+          - Conservation Biology
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: CSIR-Centre for Cellular and Molecular Biology
+        position: Doctoral researcher
+        location: Hyderabad, India
+        start_date: 2019
+        end_date: 2025
+        summary: Explored **genetic diversity, population structure, and evolutionary history** of the African sharptooth catfish (*Clarias gariepinus*) to understand the genetic factors underlying its successful establishment and spread in non-native environments.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Environmental DNA
+          - Conservation Biology
+          - Population Genetics
+          - Evolutionary Genomics
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: Zifo RnD Solutions
+        position: Clinical Reseacrh Analyst
+        location: Chennai, India
+        start_date: 2017
+        end_date: 2019
 
     Awards:
       - title: Nobel Prize in Physics
