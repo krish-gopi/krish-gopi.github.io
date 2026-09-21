@@ -142,7 +142,7 @@ cv:
       - name: Bioinformatics
         level: ""
         icon: fa-solid fa-hashtag
-        keywords: "Bash, Python, R, Local LLMs"
+        keywords: "Bash, Custom pipelines, Python, R, Local LLMs, Nextflow"
 
       - name: Laboratory
         level: ""
