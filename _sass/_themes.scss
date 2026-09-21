@@ -1,19 +1,37 @@
 html {
-  --global-theme-color: #B5533C;      // terracotta accent (light mode)
-  --global-hover-color: #B5533C;
-  --global-text-color: #3D3A34;       // ink
-  --global-text-color-light: #8A8378; // muted
-  --global-bg-color: #FAF7F3;
-  --global-card-bg-color: #FFFFFF;
-  --global-divider-color: rgba(61, 58, 52, 0.12);
+  --global-bg-color: #f5f7f8;
+  --global-code-bg-color: rgba(46, 111, 126, 0.06);
+  --global-text-color: #33404d;
+  --global-text-color-light: #7c8791;
+  --global-theme-color: #2e6f7e;
+  --global-hover-color: #33404d;
+  --global-hover-text-color: #ffffff;
+  --global-footer-bg-color: #33404d;
+  --global-footer-text-color: #e7ebed;
+  --global-footer-link-color: #ffffff;
+  --global-distill-app-color: #7c8791;
+  --global-divider-color: rgba(51, 64, 77, 0.12);
+  --global-card-bg-color: #ffffff;
+  --global-highlight-color: #2e6f7e;
+  --global-back-to-top-bg-color: rgba(51, 64, 77, 0.4);
+  --global-back-to-top-text-color: #ffffff;
 }
 
 html[data-theme='dark'] {
-  --global-theme-color: #C96B4E;      // terracotta, brightened for contrast
-  --global-hover-color: #C96B4E;
-  --global-text-color: #EDE8E1;
-  --global-text-color-light: #A69C8E;
-  --global-bg-color: #1C1A17;
-  --global-card-bg-color: #262320;
-  --global-divider-color: #3A362F;
+  --global-bg-color: #14181b;
+  --global-code-bg-color: #1e2427;
+  --global-text-color: #e7ebed;
+  --global-text-color-light: #93a0a8;
+  --global-theme-color: #4fa3b5;
+  --global-hover-color: #4fa3b5;
+  --global-hover-text-color: #14181b;
+  --global-footer-bg-color: #e7ebed;
+  --global-footer-text-color: #262b2e;
+  --global-footer-link-color: #14181b;
+  --global-distill-app-color: #93a0a8;
+  --global-divider-color: #2c3236;
+  --global-card-bg-color: #1e2427;
+  --global-highlight-color: #4fa3b5;
+  --global-back-to-top-bg-color: rgba(231, 235, 237, 0.2);
+  --global-back-to-top-text-color: #14181b;
 }
