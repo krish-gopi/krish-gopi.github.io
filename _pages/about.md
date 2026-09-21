@@ -27,6 +27,24 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<div class="about-page" markdown="1">
+
 I'm an evolutionary genomics researcher at CSIR-Centre for Cellular and Molecular Biology (CCMB), Hyderabad, working on how vertebrate genomes evolve in response to adaptation — mostly in fishes, with excursions into molluscs and birds.
 
-My current focus is the Golden Mahseer (Tor putitora), where I study tetraploid genome evolution, rediploidization, and homeolog expression divergence through a telomere-to-telomere genome assembly and a 100-individual pangenome. Earlier work includes my PhD on invasion genomics of the African sharptooth catfish, the first genome of the terrestrial snail Indrella ampulla, and contributions to hornbill genomics and tiger gut microbiome research — details on each are on the Projects page.
+<div class="about-block about-block--tint" markdown="1">
+
+## Current Research
+
+My current focus is the Golden Mahseer (*Tor putitora*), where I study tetraploid genome evolution, rediploidization, and homeolog expression divergence through a telomere-to-telomere genome assembly and a 100-individual pangenome.
+
+</div>
+
+<div class="about-block" markdown="1">
+
+## Background
+
+Earlier work includes my PhD on invasion genomics of the African sharptooth catfish, the first genome of the terrestrial snail *Indrella ampulla*, and contributions to hornbill genomics and tiger gut microbiome research — details on each are on the Projects page.
+
+</div>
+
+</div>
