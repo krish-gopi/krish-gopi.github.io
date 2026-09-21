@@ -135,22 +135,18 @@ cv:
 
     Skills:
       - name: Omics
-        level: ""
         icon: fa-solid fa-hashtag
         keywords: "T2T genome assembly, Synteny, Population genomics, Transcriptome analysis, Whole genome phylogeny, Metabarcoding, Positive selection analysis, Gene family evolution analysis, Protein struction analysis, Integrated taxonomy"
 
       - name: Bioinformatics
-        level: ""
         icon: fa-solid fa-hashtag
         keywords: "Bash, Custom pipelines, Python, R, Local LLMs, Nextflow"
 
       - name: Laboratory
-        level: ""
         icon: fa-solid fa-hashtag
         keywords: "HMW DNA & RNA isolation, Library preparation for high-throughput sequencing, Quantitaive and Digital PCR"
 
       - name: Field
-        level: ""
         icon: fa-solid fa-hashtag
         keywords: "eDNA sample collection, Fecal sample collection"
 
