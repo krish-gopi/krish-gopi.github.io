@@ -174,13 +174,26 @@ cv:
         keywords: "Outreach, Teaching & training, Avian surveys"
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Golden Mahseer genomics
+        summary: Genome assembly, comparative genomics, and transcriptomics of the endangered Himalayan golden mahseer (Tor putitora) to identify the genomic basis of sex differentiation and economically important traits for the development of aquaculture and conservation under climate change
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - T2T genome assembly
+          - Tetraploidy evolution
+          - Population genomics
+          - Comparative genomics
+          
+      - name: Marine eDNA survey
+        summary: Integrating whole-genome sequencing of 80 marine fish species for complete mitogenome barcode generation with eDNA metabarcoding of marine environmental samples to assess and monitor fish biodiversity
+        highlights:
+          - Whole genome sequencing
+          - Mitogenome assembly & barcode database
+          - Highthroughput eDNA metabarcoding
+          
+      - name: Wild-boar genomics
+        summary: Genome-informed PCR and probe-based molecular markers to reliably differentiate wild boar from domestic pigs for evidence-based management of human–wildlife conflict
+        highlights:
+          - Human-wildlife conflict
+          - Wildlife forensics
 
     References:
       - name: Professor John Doe
