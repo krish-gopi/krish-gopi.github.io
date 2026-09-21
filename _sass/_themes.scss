@@ -263,7 +263,7 @@ html[data-theme="dark"] .about-page {
 
 // The address/lab-info block under the profile photo was hard-coded to
 // monospace by the theme — switch it to the new body font.
-.more-info {
+.profile .more-info {
   font-family: var(--global-font-body);
 }
 
