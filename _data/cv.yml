@@ -204,10 +204,10 @@ cv:
         icon: fa-solid fa-laptop
         reference: Assistant Professor, Department of Fisheries Resource Management, Kerala University of Fisheries and Ocean Studies (KUFOS), Kochi, India, rajeevraq@hotmail.com
 
-        name: Dr. Jahnavi Joshi, PhD
+      - name: Dr. Jahnavi Joshi, PhD
         icon: fa-solid fa-laptop
         reference: Associate Professor & DBT/Wellcome Trust India Alliance Fellow, CSIR-Centre for Cellular and Molecular Biology, Hyderabad, India, jahnavi.ccmb@csir.res.in
 
-        name: Dr Siddharth Kulkarni, PhD
+      - name: Dr Siddharth Kulkarni, PhD
         icon: fa-solid fa-laptop
         reference: Ramalingaswami Fellow, CSIR-Centre for Cellular and Molecular Biology, Hyderabad, India, siddharth@csirccmb.org
