@@ -134,10 +134,25 @@ cv:
         summary: Contributed to understanding the gut bacterial community shifts linked to tourism and cattle grazing across five Indian tiger reserves  
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Omics
+        level: ""
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "T2T genome assembly, Synteny, Population genomics, Transcriptome analysis, Whole genome phylogeny, Metabarcoding, Positive selection analysis, Gene family evolution analysis, Protein struction analysis, Integrated taxonomy"
+
+      - name: Bioinformatics
+        level: ""
+        icon: fa-solid fa-hashtag
+        keywords: "Bash, Python, R, Local LLMs"
+
+      - name: Laboratory
+        level: ""
+        icon: fa-solid fa-hashtag
+        keywords: "HMW DNA & RNA isolation, Library preparation for high-throughput sequencing, Quantitaive and Digital PCR"
+
+      - name: Field
+        level: ""
+        icon: fa-solid fa-hashtag
+        keywords: "eDNA sample collection, Fecal sample collection"
 
     Languages:
       - name: English
