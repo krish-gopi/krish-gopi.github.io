@@ -250,3 +250,26 @@ html[data-theme="dark"] .about-page {
   --about-accent: #8aa478;
   --about-block-tint-bg: #26301f;
 }
+/*******************************************************************************
+ * Small follow-up fixes — Sept 2026
+ ******************************************************************************/
+
+// Match "Krishnan" to the boldness of "Gopi" in the name header.
+// Note: .post-title is also the h1 class on blog posts, CV, and archive
+// pages, so this bolds those page titles too, not just the About page.
+.post-title {
+  font-weight: 700;
+}
+
+// The address/lab-info block under the profile photo was hard-coded to
+// monospace by the theme — switch it to the new body font.
+.more-info {
+  font-family: var(--global-font-body);
+}
+
+// Capitalize navbar and dropdown labels (about → About, publications →
+// Publications) without renaming the underlying page titles or URLs.
+.navbar-nav .nav-link,
+.dropdown-item {
+  text-transform: capitalize;
+}
