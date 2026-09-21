@@ -114,8 +114,24 @@ cv:
           - Gopi Krishnan, Meher Sunkara, Rajeev Raghavan, and Govindhaswamy Umapathy
         publisher: Biological Invasions
         releaseDate: 2022-11-16
+        url: https://doi.org/10.1186/s12862-026-02547-3
+        summary: Developed and tested an eDNA based assay to study the distribution of highly invasive African Sharptooth catfish (Clarias gariepinus)
+
+      - title: De novo genome assemblies of threatened Asian hornbills (Bucerotidae) reveal declining population trajectories during the late Pleistocene
+        authors:
+          - Pooja Yashwant Pawar, Gopi Krishnan, Rohit Naniwadekar, and Jahnavi Joshi
+        publisher: BMC Ecology and Evolution
+        releaseDate: 2026-06-27
         url: https://doi.org/10.1007/s10530-022-02969-2
-        summary: Developed and tested an eDNA based assay to study the distribution of highly invasive African Sharptooth catfish (Clarias gariepinus) 
+        summary: Contributed to generation of De novo genomes and Pleistocene population trajectories for four threatened hornbill species
+      
+      - title: Anthropogenic Factors Shape the Gut Microbiota of Tigers in Indian Tiger Reserves
+        authors:
+          - Gudimella Anusha, Aamer Sohail Khan, Gopi Krishnan, Govindhaswamy Umapathy
+        publisher: Global Ecology and Conservation
+        releaseDate: 2025-09-24
+        url: https://doi.org/10.1016/j.gecco.2025.e03874
+        summary: Contributed to understanding the gut bacterial community shifts linked to tourism and cattle grazing across five Indian tiger reserves  
 
     Skills:
       - name: Physics
