@@ -273,3 +273,15 @@ html[data-theme="dark"] .about-page {
 .dropdown-item {
   text-transform: capitalize;
 }
+.updates-more {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--global-theme-color);
+
+  &:hover {
+    color: var(--global-hover-color);
+    text-decoration: underline;
+  }
+}
