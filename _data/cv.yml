@@ -161,9 +161,17 @@ cv:
         summary: "Working proficiency"
 
     Interests:
-      - name: Physics
+      - name: Genomics
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Adaptive genome evolution, Chromosome architecture, Bioinformatics pipelines, Big data analysis, Species dellimitation, Conservation genetics & genomics"
+
+      - name: eDNA
+        icon: fa-solid fa-tag
+        keywords: "Invasion ecology, Assay development, Metabarcoding, Protocol standardization"
+
+      - name: Community
+        icon: fa-solid fa-tag
+        keywords: "Outreach, Teaching & training, Avian surveys"
 
     Certificates:
       - name: Machine Learning
