@@ -140,11 +140,14 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
         summary: "Fluent"
+
+      - name: Tamil
+        summary: "Native speaker"
+      
+      - name: Hindi
+        summary: "Working proficiency"
 
     Interests:
       - name: Physics
