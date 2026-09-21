@@ -1,6 +1,6 @@
 cv:
   name: Gopi Krishnan
-  label: Post doctoral reseacrher
+  label: Post doctoral researcher
   email: gopi@csirccmb.org
   location: CSIR-Centre for Cellular and Molecular Biology, Hyderabad, India
   image: ""
@@ -81,20 +81,16 @@ cv:
         end_date: 2019
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Symposium grant
+        date: 2024
+        awarder: FSBI- An International Society for Fish Biology, and eDNA Collaborative 
+        url: https://fsbi.org.uk/symposium-2024/
+        summary: Awarded to present a talk in the symposium with a fee waiver on registration, accommodation and travel
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Graduate research fellowship
+        date: 2019
+        awarder: Council of Scientific and Industrial Research
+        summary: Awarded a five-year fellowship to carry out graduate research
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
