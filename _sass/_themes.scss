@@ -3,12 +3,18 @@
 html {
   color-scheme: light;
 
+  // Moss & Clay — now the sitewide accent (was scoped to the About page only;
+  // Sept 2026 request made it global). Links, hover states, the active nav
+  // item, publication badges, and the About-page blocks all read this same
+  // pair of variables, so this is the one place to touch for a global
+  // recolor. --global-text-color/--global-bg-color are unrelated to the
+  // accent and stay as they were.
   --global-bg-color: #f5f7f8;
-  --global-code-bg-color: rgba(46, 111, 126, 0.06);
+  --global-code-bg-color: rgba(91, 111, 79, 0.06);
   --global-text-color: #33404d;
   --global-text-color-light: #7c8791;
-  --global-theme-color: #2e6f7e;
-  --global-hover-color: #33404d;
+  --global-theme-color: #5b6f4f;
+  --global-hover-color: #3d4b35;
   --global-hover-text-color: #ffffff;
   --global-footer-bg-color: #33404d;
   --global-footer-text-color: #e7ebed;
@@ -16,7 +22,7 @@ html {
   --global-distill-app-color: #7c8791;
   --global-divider-color: rgba(51, 64, 77, 0.12);
   --global-card-bg-color: #ffffff;
-  --global-highlight-color: #2e6f7e;
+  --global-highlight-color: #5b6f4f;
   --global-back-to-top-bg-color: rgba(51, 64, 77, 0.4);
   --global-back-to-top-text-color: #ffffff;
 
@@ -75,8 +81,8 @@ html[data-theme="dark"] {
   --global-code-bg-color: #1e2427;
   --global-text-color: #e7ebed;
   --global-text-color-light: #93a0a8;
-  --global-theme-color: #4fa3b5;
-  --global-hover-color: #4fa3b5;
+  --global-theme-color: #8aa478;
+  --global-hover-color: #8aa478;
   --global-hover-text-color: #14181b;
   --global-footer-bg-color: #e7ebed;
   --global-footer-text-color: #262b2e;
@@ -84,7 +90,7 @@ html[data-theme="dark"] {
   --global-distill-app-color: #93a0a8;
   --global-divider-color: #2c3236;
   --global-card-bg-color: #1e2427;
-  --global-highlight-color: #4fa3b5;
+  --global-highlight-color: #8aa478;
   --global-back-to-top-bg-color: rgba(231, 235, 237, 0.2);
   --global-back-to-top-text-color: #14181b;
 
@@ -213,12 +219,12 @@ h6 {
 }
 
 /*******************************************************************************
- * About page — "Moss & Clay" block palette
- * Scoped to .about-page so this doesn't touch the site-wide --global-* colors,
- * and so other pages can carry their own palette later the same way.
+ * About page — tinted block panels
+ * The accent color itself now comes from --global-theme-color (sitewide, see
+ * above) — this block only handles the panel-background pattern, which is
+ * specific to the About page's layout, not a global site concept.
  ******************************************************************************/
 .about-page {
-  --about-accent: #5b6f4f;
   --about-block-tint-bg: #f2ede2;
 
   h2 {
@@ -226,7 +232,7 @@ h6 {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: var(--about-accent);
+    color: var(--global-theme-color);
     margin-top: 0;
     margin-bottom: 0.6rem;
   }
@@ -247,7 +253,6 @@ h6 {
 }
 
 html[data-theme="dark"] .about-page {
-  --about-accent: #8aa478;
   --about-block-tint-bg: #26301f;
 }
 /*******************************************************************************
@@ -284,4 +289,15 @@ html[data-theme="dark"] .about-page {
     color: var(--global-hover-color);
     text-decoration: underline;
   }
+}
+
+// Publication status badges ("Preprint", "GBE", etc.). Bootstrap's default
+// .badge padding (.25em .4em, line-height:1) is very tight, and the theme
+// stretches it to the full column width with .w-100 — combined, that's what
+// makes it look like a thin sliver rather than a proper pill.
+.abbr abbr.badge {
+  padding: 0.4rem 0.6rem;
+  line-height: 1.4;
+  font-size: 0.72rem;
+  letter-spacing: 0.03em;
 }
