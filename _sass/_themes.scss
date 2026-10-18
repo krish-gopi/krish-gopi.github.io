@@ -305,6 +305,12 @@ html[data-theme="dark"] .about-page {
   white-space: nowrap;
 }
 
+.cv .table-cv td.font-weight-bold {
+  padding-right: 2rem !important;
+}
+.cv .table-cv tr:nth-child(2) td.font-weight-bold b {
+  font-size: 0;
+}
 .cv .table-cv tr:nth-child(2) td.font-weight-bold b::after {
   content: "Position";
   font-size: 1rem;
