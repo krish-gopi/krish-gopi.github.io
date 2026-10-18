@@ -310,3 +310,11 @@ html[data-theme="dark"] .about-page {
 .cv table th:first-child {
   white-space: nowrap;
 }
+// Rename the contact table's "Professional Title" label (theme hard-codes it)
+.cv .table-cv tr:nth-child(2) td.font-weight-bold b {
+  font-size: 0;
+}
+.cv .table-cv tr:nth-child(2) td.font-weight-bold b::after {
+  content: "Position";
+  font-size: 1rem;
+}
