@@ -303,4 +303,9 @@ html[data-theme="dark"] .about-page {
   font-size: 0.72rem;
   letter-spacing: 0.03em;
   white-space: nowrap;
+
+// Keep CV table labels (Name, Professional Title, Email...) on one line
+.cv table td:first-child,
+.cv table th:first-child {
+  white-space: nowrap;
 }
